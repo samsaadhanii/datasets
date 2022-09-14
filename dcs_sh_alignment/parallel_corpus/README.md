@@ -39,11 +39,11 @@ This dataset contains the parallel corpus generated from the alignment of DCS an
     19. aux_inf -> auxiliary information
     20. cha_pos -> overall character position in the input string
     
-4. There are 130,271 graphml files named corresponding to the DCS sentence IDs present in the parallel\_data\_iast.tsv
+4. There are 130,270 graphml files named corresponding to the DCS sentence IDs present in the parallel\_data\_iast.tsv
 
 ## JSON files
 
-1. There are 130,271 json files named corresponding to the DCS sentence IDs present in the parallel\_data\_iast.tsv
+1. There are 130,270 json files named corresponding to the DCS sentence IDs present in the parallel\_data\_iast.tsv
 
 2. Each json file has the following:
     1. sent\_id -> sentence id corresponding to the DCS sentence
@@ -60,3 +60,5 @@ This dataset contains the parallel corpus generated from the alignment of DCS an
     11. word -> word forms
     12. pre\_verb -> pre\_verbs of both the stems
     13. graphml\_node\_ids -> the node ids corresponding to the ids in the graphml graph
+
+The Dataset released along with the research work titled "Validation and Normalization of DCS corpus and Development of the Sanskrit Heritage Engine’s Segmenter" © 2022 by Sriram Krishnan, Amba Kulkarni, and Gérard Huet is licensed under Attribution 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
